@@ -9,3 +9,10 @@ These millions of listings generate a lot of data - data that can be analyzed an
 understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives,
 implementation of innovative additional services and much more.we can see how that Data Exploration on NYC Airbnb can be visualized,
 and fit model to predict price.
+This  dataset show
+importing necessery libraries for future analysis of the dataset
+New York City Airbnb  Data Visualization
+find out more about our neiberhoods presented 'Brooklyn', 'Manhattan', 'Queens', 'Staten Island', and 'Bronx'
+we saw earlier from unique values for neighbourhood there are way too many to concentrate on
+we are going to use pairplot and distplot for this visualization
+scatterplot worked just fine to output our latitude and longitude points.
